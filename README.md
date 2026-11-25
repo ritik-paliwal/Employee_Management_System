@@ -130,4 +130,4 @@ Ritik Paliwal
 
 Aspiring Data Analyst | Python | SQL | Excel
 
-"GitHub Profile" (https://github.com/YOUR_USERNAME)
+"GitHub Profile" (https://github.com/ritik-paliwal)
